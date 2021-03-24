@@ -20,4 +20,7 @@ public class TeamTwoDemo {
 	public static void todo() {
 		System.out.println("Follow the process");
 	}
+	public static void Day2Eliott() {
+		System.out.println("This is Day 2 test");
+	}
 }
