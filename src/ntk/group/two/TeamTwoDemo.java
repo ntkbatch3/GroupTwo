@@ -7,10 +7,13 @@ public class TeamTwoDemo {
 	 */
 
 	public static void main(String[] args) {
+		int sumFive;
 		System.out.println("Team Two ");
 		System.out.println("Eliott");
 		System.out.println("ABDO-RAZAK");
 		System.out.println("Hela");
+		sumFive= addingFiveNumber(1,1,1,1,1);
+		System.out.println(sumFive);
 	}
 
  public void fabio() {
@@ -20,7 +23,9 @@ public class TeamTwoDemo {
 	public static void todo() {
 		System.out.println("Follow the process");
 	}
-	public static void Day2Eliott() {
-		System.out.println("This is Day 2 test");
+	public static int addingFiveNumber(int a,int b,int c,int d,int e) {
+			int sum=a+b+c+d+e;
+			return sum ;
 	}
+	
 }
