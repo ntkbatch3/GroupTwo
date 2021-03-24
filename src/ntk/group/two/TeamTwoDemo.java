@@ -6,6 +6,8 @@ public class TeamTwoDemo {
 		System.out.println("Team Two ");
 		System.out.println("Eliott");
 		System.out.println("ABDO-RAZAK");
+//>>>>>>> branch 'master' of https://github.com/ntkbatch3/GroupTwo.git
+		System.out.println("Hela");
 	}
 
 	public void Beezak() {
@@ -18,6 +20,12 @@ public class TeamTwoDemo {
 		System.out.println("2--->commit");
 	}
 
+ 
+ public void fabio() {
+	 System.out.println("hope this works ");
+ }
+ 
+ 
  
  
 	public static void todo() {
