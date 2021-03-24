@@ -10,4 +10,9 @@ public class TeamTwoDemo {
  public void Beezak() {
 	 System.out.println("first commit..");
  }
+ 
+ 
+	public static void todo() {
+		System.out.println("Follow the process");
+	}
 }
